@@ -1,4 +1,4 @@
-# Adaptive_Signal_Identification
+# Adaptive_System_Identification
 Using LMS &amp; NLMS algorithm, the system identification is implemented in MATLAB.
 
 ## About
